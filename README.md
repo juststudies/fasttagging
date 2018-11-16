@@ -42,3 +42,4 @@ GPL-licensed -- see `main.js` for details.
 
 ### Compatibility
 Tested on Brackets Release 1.9 on Windows 10.
+Tested on Brackets Release 1.13 on Windows 7 Ultimate 64 bits.
